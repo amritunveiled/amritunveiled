@@ -173,9 +173,6 @@ class AmritRaj:
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/amritunveiled/amritunveiled/output/github-snake.svg" width="100%" />
 </picture>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=amritunveiled&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub trophies" />
 
 </div>
 
